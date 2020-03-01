@@ -1,0 +1,5 @@
+C:\teste_softplan\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.0\TaxaJuros.Api.csprojAssemblyReference.cache
+C:\teste_softplan\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.0\TaxaJuros.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\teste_softplan\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.0\TaxaJuros.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\teste_softplan\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.0\TaxaJuros.Api.AssemblyInfoInputs.cache
+C:\teste_softplan\TaxaJuros\TaxaJuros\obj\Debug\netcoreapp3.0\TaxaJuros.Api.AssemblyInfo.cs

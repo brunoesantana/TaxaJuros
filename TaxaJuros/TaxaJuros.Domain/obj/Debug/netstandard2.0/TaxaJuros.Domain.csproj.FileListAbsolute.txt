@@ -1,0 +1,15 @@
+C:\teste_softplan\BookStore\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.AssemblyInfoInputs.cache
+C:\teste_softplan\BookStore\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.AssemblyInfo.cs
+C:\teste_softplan\BookStore\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.deps.json
+C:\teste_softplan\BookStore\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.dll
+C:\teste_softplan\BookStore\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.pdb
+C:\teste_softplan\BookStore\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.dll
+C:\teste_softplan\BookStore\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.pdb
+C:\teste_softplan\BookStore\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.csprojAssemblyReference.cache
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.deps.json
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.dll
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\bin\Debug\netstandard2.0\TaxaJuros.Domain.pdb
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.AssemblyInfoInputs.cache
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.AssemblyInfo.cs
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.dll
+C:\teste_softplan\TaxaJuros\TaxaJuros.Domain\obj\Debug\netstandard2.0\TaxaJuros.Domain.pdb
